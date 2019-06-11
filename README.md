@@ -7,7 +7,7 @@ Unity: Dungeon Escape - 2D Mobile Game Demo
 - Integrated Unity Ads, published to Google Play Store.
 
 -------------------------------------------------------------------------------------
-Try it on Google Play Store: 
+Try it on **Google Play Store**: 
 https://play.google.com/store/apps/details?id=com.czldev.DungeonEscape
 
-Portfolio: http://www.czldev.tech/
+**Portfolio**: http://www.czldev.tech/
